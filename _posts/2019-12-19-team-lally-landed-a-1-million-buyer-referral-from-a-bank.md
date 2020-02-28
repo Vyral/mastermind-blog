@@ -15,7 +15,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/lally.webp
+youtube_alternate_image: /uploads/lally.png
 youtube_code:
 ---
 
