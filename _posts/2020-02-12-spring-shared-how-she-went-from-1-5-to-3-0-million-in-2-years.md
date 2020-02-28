@@ -3,6 +3,7 @@ layout: post
 title: Spring shared how she went from $1.5 to $3.0 million in 2 years
 date: 2020-02-12 00:00:00
 tags:
+  - Spring Bengtzen
 excerpt:
 enclosure: >-
   Our member, Spring Bengtzen, spoke for an hour at our last meeting about how
