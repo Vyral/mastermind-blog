@@ -3,6 +3,7 @@ layout: post
 title: Team Lally Landed a $1 Million Buyer Referral From a Bank
 date: 2019-12-19 00:00:00
 tags:
+  - Team Lally
 excerpt: >-
   I wanted to write you about a profitable connection that was made from our
   last mastermind...  Members Adrienne and Attilio (Team Lally) are the top
@@ -14,7 +15,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/lally.webp
 youtube_code:
 ---
 
