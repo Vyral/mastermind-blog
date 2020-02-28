@@ -1,5 +1,5 @@
 .footer
-	background: darken($theme, .2)
+	background: linear-gradient(#5B1928, #000000)
 	color: $theme-text
 	padding: 2rem
 	text-align: center
@@ -13,6 +13,11 @@
 		text-align: center
 		.vyral-logo
 			@include size(3rem)
+
+.footer-logo
+	max-width: 150px
+	margin-bottom: 3rem
+	@include filter(drop-shadow($header-shadow))
 
 .attribution
 	text-align: center

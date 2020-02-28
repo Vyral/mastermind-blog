@@ -2,12 +2,12 @@
 	border-bottom: 2px solid $theme
 	border-radius: 0
 	min-height: 52px
-	background: #ffffff
+	background: linear-gradient(#5B1928, #000000)
 	width: 100%
 	overflow: hidden
 
 .navbar-andross .navbar-brand
-	color: $brand
+	color: #fff
 	padding-top: 20px
 	padding-bottom: 33px
 	font-size: 20px
@@ -21,7 +21,7 @@
 
 .navbar-left>li>a
 	background: transparent
-	color: black
+	color: #fff
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
@@ -84,9 +84,10 @@
 
 .nav-logo
 	float: left !important
-	max-width: 250px
+	max-width: 100px
 	margin: 5px
 	padding: 10px
+	@include filter(drop-shadow($header-shadow))
 
 @media (max-width: 760px)
 	.nav-logo
@@ -95,7 +96,7 @@
 		height: 300px
 
 	.nav-logo-small
-		max-width: 250px
+		max-width: 100px
 		margin-top: -10px
 
 
