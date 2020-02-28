@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2020-02-28 17:11:31 -0600</lastBuildDate>
+    <lastBuildDate>2020-02-28 17:13:51 -0600</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -32,7 +32,7 @@
         
         <author></author>
         <pubDate>2020-02-11 18:00:00 -0600</pubDate>
-        <guid>Our member, Spring Bengtzen, spoke for an hour at our last meeting about how she doubled her business from $1.5 to $3.0 million GCI with unique recruiting strategies.</guid>
+        <guid></guid>
         <description>Mastermind Club friends,
 
 Our member, Spring Bengtzen, spoke for an hour at our last meeting about how she doubled her business from $1.5 to $3.0 million GCI with unique recruiting strategies 
@@ -82,17 +82,13 @@ A guest ticket is $700 which breaks us even together on the meeting. I share a P
 
 You can learn more about Mastermind Club® and what we’re all about here.
 </description>
-        <enclosure url="Our member, Spring Bengtzen, spoke for an hour at our last meeting about how she doubled her business from $1.5 to $3.0 million GCI with unique recruiting strategies." length="" type="video/mp4"/>
+        <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="Our member, Spring Bengtzen, spoke for an hour at our last meeting about how she doubled her business from $1.5 to $3.0 million GCI with unique recruiting strategies." type="video/mp4"/>
+        <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Mastermind Club friends,
-
-</itunes:subtitle>
+        <itunes:subtitle>Our member, Spring Bengtzen, spoke for an hour at our last meeting about how she doubled her business from $1.5 to $3.0 million GCI with unique recruiting strategies.</itunes:subtitle>
         <itunes:author></itunes:author>
-        <itunes:summary>Mastermind Club friends,
-
-</itunes:summary>
+        <itunes:summary>Our member, Spring Bengtzen, spoke for an hour at our last meeting about how she doubled her business from $1.5 to $3.0 million GCI with unique recruiting strategies.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
