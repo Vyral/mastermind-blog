@@ -3,6 +3,7 @@ layout: post
 title: 2020 Mastermind Club Dates!
 date: 2020-01-03 00:00:00
 tags:
+  - Mastermind Dates
 excerpt: >-
   Are you planning your 2020 travel dates like me right now? They are all in
   downtown San Diego at University Club.  Talk to me about a guest invite if
@@ -12,8 +13,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/calendar.jpg
 youtube_code:
 ---
 
